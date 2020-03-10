@@ -19,31 +19,19 @@ h2 {
     margin-left: 10px;
   }
 
-h3 {
-    color: black;
-    text-align: center;
-  }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-/* unvisited link */
 a:link {
   color: black;
 }
-/* visited link */
 a:visited {
   color: black;
 }
-/* mouse over link */
 a:hover {
   color: rgb(134, 49, 89);
 }
-/* selected link */
 a:active {
   color: hotpink;
 }
+
   #information {
       position: fixed;
       bottom: 0;
@@ -66,7 +54,7 @@ a:active {
     background-color: rgba(255, 255, 255, 0.712);
   }
 
-  #Chemie {
+  #Drawings {
     color: black;
     text-align: center;
     width: auto;
@@ -75,7 +63,7 @@ a:active {
     margin: auto;
     background-color: rgba(255, 255, 255, 0.712);
   }
-  #Philosophie {
+  #Digitals {
     color: black;
     text-align: center;
     width: auto;
@@ -84,7 +72,7 @@ a:active {
     margin: auto;
     background-color: rgba(255, 255, 255, 0.712);
   }
-  #Geography {
+  #Photography {
     color: black;
     text-align: center;
     width: auto;
@@ -93,7 +81,7 @@ a:active {
     margin: auto;
     background-color: rgba(255, 255, 255, 0.712);
   }
-  #Deutsch {
+  #Self-Portraits {
     color: black;
     text-align: center;
     width: auto;
