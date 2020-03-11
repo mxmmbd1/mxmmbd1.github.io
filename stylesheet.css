@@ -36,7 +36,8 @@ a:active {
   color: hotpink;
 }
 #description {
-    color: yellow
+    color: yellow;
+    text-align: center; 
 }
   #information {
       position: fixed;
