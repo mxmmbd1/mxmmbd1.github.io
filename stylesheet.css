@@ -51,6 +51,8 @@ a:active {
     color: black;
     text-align: left;
     margin-left: 10px;
+    background-color: yellow;
+    width: auto;
   }
 
   #notsoimportant {
