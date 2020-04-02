@@ -21,7 +21,8 @@ h3 {
   }
 img {
     image-orientation: from-image;
-    max-width: 150px;
+    max-width: 500px;
+    max-height: 500px;
 }
 
 .titletext {
